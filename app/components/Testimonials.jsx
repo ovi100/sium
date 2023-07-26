@@ -20,6 +20,11 @@ const Testimonials = () => {
       company: "Jadroo E-commerce Ltd.",
       text: "Ashiqul Islam is amazing at his job and a quick learner at Jadroo E-Commerce Ltd. He knows how to capture a task and complete it without any second touch. I was amazed at his work when I gave him a huge task and he completed that within a moment, from then I can completely rely on him because of his productivity & performance. He knows his way around people, he is good with the customer and clients in Jadroo, does whatever it takes to help colleagues, and gets things done.",
     },
+    {
+      name: "AHSAN TAZ",
+      company: "Alpha Commerz Ltd.",
+      text: "Ashiqul Islam Sium worked at Jadroo eCommerce LTD under my supervision. What I observed about him, he is a great dedicated employee. He takes his tasks very seriously. Once any task/work had been deployed, he made it done with a great outcome. Thank you Sium for your support.",
+    },
   ];
 
   let settings = {
