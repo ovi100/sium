@@ -8,7 +8,7 @@ const Resume = () => {
       title: "BBA, Finance",
     },
     {
-      year: "2009 - 2011",
+      year: "2015 - 2017",
       institute: "Notre Dame College",
       title: "HSC (Business Studies)",
     },
@@ -21,7 +21,12 @@ const Resume = () => {
 
   const experiences = [
     {
-      year: "Otc 2022 - Present",
+      year: "Jan 2023 - Present",
+      institute: "ACI Logistics Ltd.",
+      title: "Business Analyst",
+    },
+    {
+      year: "Oct 2022 - Dec 2022",
       institute: "ACI Logistics Ltd.",
       title: "Internship Trainee",
     },
@@ -38,7 +43,7 @@ const Resume = () => {
     {
       year: "Jun 2021 - May 2022",
       institute: "Jadroo",
-      title: "Executive",
+      title: "Executive, CS",
     },
   ];
 

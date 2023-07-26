@@ -39,10 +39,16 @@ const About = () => {
         <div className="short-text text-sm text-[#d5d5d5] leading-6">
           Finding creative solutions to problems is something I have always
           enjoyed. As a kid I loved tinkering with things that were broken,
-          figuring out how they worked and fixing them again I am currently
-          studying Bachelor in Business Administration at North-South University
-          and doing my major in Finance. Currently serving an International
-          Chapter as president. I love to do teamwork and lead a team
+          figuring out how they worked and fixing them again. I am a highly
+          motivated professional with a passion for finance and business
+          analytics. Currently, I am thriving in my role as a Business Analyst
+          at ACI Logistics, where I contribute my expertise in financial
+          analysis, data interpretation, and strategic planning to drive the
+          company's growth and success. I firmly believe that continuous
+          learning and adaptability are key to success in today's ever-changing
+          business landscape. As I continue to evolve and grow in my career, I
+          am excited to embrace new challenges and make a positive difference
+          wherever my path leads me.
         </div>
         <div className="social-link flex items-center gap-3 my-5 justify-center lg:justify-start">
           <a
